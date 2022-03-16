@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: sewebiug_working_with_cloud_manager.html 
+keywords: netapp, keystone, working, cloud, manager, 
+summary: Keystone avec cloud Manager 
+---
+= Collaborer avec Cloud Manager
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Le moteur de service NetApp peut se connecter à NetApp Cloud Manager. Cette section décrit comment un administrateur NetApp peut effectuer les tâches suivantes :
+
+* Connectez-vous à Cloud Manager
+* Affichez l'état de la connexion à Cloud Manager
+
+
+
+
+=== Connectez-vous à Cloud Manager
+
+Vous aurez besoin des éléments suivants :
+
+* URL du terminal de l'API Cloud Manager
+* L'ID du client du service SaaS Cloud Manager
+* Le jeton d'actualisation du service SaaS Cloud Manager
+
+
+.Étapes
+. Sélectionnez Administration > connexion OCCM dans le menu.
+. Spécifiez l'URL du noeud final de l'API OCCM
+. Entrez l'ID client.
+. Saisissez le jeton d'actualisation OCCM.
+. Cliquez sur *mettre à jour*.
+
+
+
+
+=== Affichez l'état de la connexion à Cloud Manager
+
+https://jira.ngage.netapp.com/browse/NSEKEY-1703["https://jira.ngage.netapp.com/browse/NSEKEY-1703"^]

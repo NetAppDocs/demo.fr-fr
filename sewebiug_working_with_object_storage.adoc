@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: sewebiug_working_with_object_storage.html 
+keywords: netapp, keystone, working, object, storage, 
+summary: Keystone avec le stockage objet 
+---
+= Utilisation du stockage objet
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

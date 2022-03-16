@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: sewebiug_managing_users_overview.html 
+keywords: netapp, keystone, managing users, overview, 
+summary: Présentation de la gestion de Keystone pour les utilisateurs 
+---
+= Présentation
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cette section décrit comment gérer les utilisateurs :
+
+
+NOTE: La gestion des utilisateurs nécessite un accès administrateur client.
+
+* Afficher la liste des utilisateurs.
+* Ajouter un utilisateur.
+* Modifiez les informations de l'utilisateur telles que le prénom, le nom de famille, le nom d'affichage, les tenlocations auxquelles l'utilisateur a accès et le rôle de l'utilisateur au sein de ces tenlocations.
+* Supprimer un utilisateur.
+

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: seapiref_consumer_apis.html 
+keywords: netapp, keystone, consumer, apis, 
+summary: API grand public Keystone 
+---
+= API grand public
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

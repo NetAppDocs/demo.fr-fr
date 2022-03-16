@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: nkfsosm-keystone-cm.html 
+keywords: netapp, keystone, cloud manager, keystone customers, CVO, cloud volumes ontap, cloud volumes ontap cvo billing 
+summary: Intégration de Keystone et Cloud Manager 
+---
+= Quels sont les avantages de l'abonnement Flex pour votre utilisation de Cloud Volumes ONTAP
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Votre abonnement aux services NetApp Keystone Flex Subscription (Flex Subscription) facilite votre utilisation et vos besoins en facturation pour votre utilisation de Cloud Volumes ONTAP. Si vous êtes un client NetApp Keystone Flex Subscription et que vous êtes abonné à Cloud Volumes ONTAP, vous pouvez utiliser Flex Subscription pour facturer votre utilisation de Cloud Volumes ONTAP et consulter vos informations de facturation et de consommation.

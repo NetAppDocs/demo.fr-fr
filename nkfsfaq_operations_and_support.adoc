@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: nkfsfaq_operations_and_support.html 
+keywords: netapp, keystone, operations, support, 
+summary: Opérations et support 
+---
+= Opérations d'abonnement et support Flex
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Suppression non utilisée ultérieurement
+
+*Comment puis-je consulter l'utilisation de l'abonnement Flex ?* le moteur de services NetApp fournit un tableau de bord avec des informations sur tous les services auxquels vous êtes abonné et sur la quantité consommée ? Pour plus d'informations sur le moteur de service NetApp, reportez-vous à link:https://docs.netapp.com/us-en/keystone/sewebiug_overview.html["ici"].
+
+*Comment puis-je signaler des problèmes avec le service?* le support NetApp Keystone peut être accessible par l'intermédiaire de ces différents canaux :
+
+* E-mail de l'assistance : mailto:keystone.services@netapp.com[keystone.services@netapp.com^]
+* Courriel de remontée : mailto:keystone.escalations@netapp.com[keystone.escalations@netapp.com^]
+
+
+*Puis-je commander un nouveau service de stockage ?* Oui, il est possible de demander un nouveau service de stockage ou une extension au service de stockage sur le portail NetApp Service Engine. La demande est traitée par l'équipe NetApp Keystone chargée des opérations avant de la mettre à disposition des clients.
+
+*Les augmentations des engagements en matière de stockage sont-elles disponibles immédiatement?* en fonction du montant de la capacité demandée, on détermine si la capacité est déjà déployée ou si un équipement supplémentaire doit être expédié et installé.
+
+*Les charges de travail peuvent-elles être déplacées entre les niveaux ?* Oui, les charges de travail peuvent être déplacées entre les niveaux, à condition que l'utilisateur ait souscrit au niveau vers qui la charge de travail est déplacée. Toutefois, nous ne recommandons pas de passer d'un niveau supérieur à un niveau inférieur, car cela peut entraîner une dégradation des performances. Pour ce faire, il suffit de modifier le partage de fichiers et de modifier le paramètre de niveau de service.
+
+*Quelle version du logiciel (par exemple, ONTAP) est installée par défaut?* en fonction du niveau de service souscrit (par exemple, ONTAP avec services de fichiers et de blocs, SANtricity pour Bloc et StorageGRID pour objet) l'équipe de support installe la dernière version stable sans problèmes de sécurité ou de fonctionnalité.
+
+*Puis-je demander une version de logiciel particulière?* non NetApp Keystone a standardisé la version logicielle sur l'ensemble de sa base client.
+
+*Vais-je être informé des mises à niveau logicielles?* Oui. Toutes les activités de maintenance et de mise à niveau sont communiquées au NetApp Keystone client et planifiées à une heure convenue mutuellement entre le client.

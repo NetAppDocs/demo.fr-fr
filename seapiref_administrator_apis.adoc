@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: seapiref_administrator_apis.html 
+keywords: netapp, keystone, administrator, apis, 
+summary: 'API d"administrateur Keystone' 
+---
+= API d'administration
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
