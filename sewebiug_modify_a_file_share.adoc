@@ -18,7 +18,7 @@ Vous pouvez modifier le nom du partage, le type de partage (CIFS, NFS, multiprot
 
 NOTE: Cette méthode vous permet de déplacer vos partages vers différents niveaux de performances, le cas échéant. Vous ne pouvez modifier le type de partage que si le serveur prend en charge les services respectifs.
 
-Le partage de fichiers doit être à l'état opérationnel. Pour comprendre les États de volume et les étapes à suivre pour les rendre opérationnels, voir link:https://docs.netapp.com/us-en/keystone/sewebiug_view_shares.html["Afficher les disques"] et 
+Le partage de fichiers doit être à l'état opérationnel. Pour comprendre les États de volume et les étapes à suivre pour les rendre opérationnels, voir link:https://docs.netapp.com/us-en/keystone/sewebiug_view_shares.html["Afficher les disques"] et link:https://docs.netapp.com/us-en/keystone/sewebiug_netapp_service_engine_web_interface_overview.html#Object-states["États de l'objet"]
 
 .Étapes
 . Afficher le link:sewebiug_view_shares.html#view-shares["Liste des partages"].

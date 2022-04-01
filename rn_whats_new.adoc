@@ -30,7 +30,7 @@ Si vous êtes un client NetApp Keystone Flex Subscription (Flex Subscription) et
 
 
 Pour en savoir plus, consultez les liens suivants dans les documents Cloud Manager :link:https://docs.netapp.com/us-en/occm/concept_licensing.html#keystone-flex-subscription["Abonnement Keystone Flex"]
-
+link:https://docs.netapp.com/us-en/occm/task_managing_licenses.html#manage-keystone-flex-subscriptions["Gérez les abonnements Keystone Flex"]
 
 {Sp} + {sp} + {sp} les fonctionnalités suivantes ont été introduites dans différentes versions du moteur de services NetApp pour prendre en charge les fonctionnalités améliorées offertes par l'abonnement NetApp Keystone Flex (Flex Subscription) :
 

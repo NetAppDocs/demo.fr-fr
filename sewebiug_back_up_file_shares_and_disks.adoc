@@ -34,7 +34,7 @@ Vous pouvez afficher la liste des instantanés créés pour vos partages de fich
 
 == Créez un objet de sauvegarde
 
-Vous pouvez créer des snapshots pour vos volumes en définissant la stratégie de sauvegarde lorsque vous link:https://docs.netapp.com/us-en/keystone/sewebiug_create_a_new_file_share.html["créez un partage de fichiers"] ou .
+Vous pouvez créer des snapshots pour vos volumes en définissant la stratégie de sauvegarde lorsque vous link:https://docs.netapp.com/us-en/keystone/sewebiug_create_a_new_file_share.html["créez un partage de fichiers"] ou link:https://docs.netapp.com/us-en/keystone/sewebiug_create_a_new_disk.html["créer un disque"].
 
 .Étapes
 . Activer *Stratégie de sauvegarde*.

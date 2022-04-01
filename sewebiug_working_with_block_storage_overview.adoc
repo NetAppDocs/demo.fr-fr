@@ -19,7 +19,7 @@ Les magasins de blocs appartiennent à un sous-locataire et sont spécifiés dan
 
 Les magasins de blocs doivent être initialisés avant de pouvoir être utilisés. Lorsque le stockage en bloc est disponible et qu'il n'a pas été initialisé, il peut être initialisé avant de créer le premier disque sur le magasin en bloc dans le cadre du processus de création de disque.
 
-Les disques sont créés dans des magasins de blocs. Les disques ont de nombreux attributs configurables inclus la capacité et le niveau de service associé. Des options DP telles que link:sewebiug_billing_accounts,_subscriptions,_services,_and_performance.html#snapshots["Snapshots"] et  peut être activé pour un disque.
+Les disques sont créés dans des magasins de blocs. Les disques ont de nombreux attributs configurables inclus la capacité et le niveau de service associé. Des options DP telles que link:sewebiug_billing_accounts,_subscriptions,_services,_and_performance.html#snapshots["Snapshots"] et link:sewebiug_billing_accounts,_subscriptions,_services,_and_performance.html#disaster-recovery["Reprise après incident"] peut être activé pour un disque.
 
 L'accès aux disques est contrôlé par des groupes hôtes. Les groupes d'hôtes sont des noms de nœud initiateurs ; en mappant un ou plusieurs groupes d'hôtes sur un disque, vous pouvez définir quels initiateurs ont accès au disque.
 

@@ -18,15 +18,15 @@ Les API d'administration (grand public) comprennent des méthodes qui vous perme
 * Connectez-vous, définissez un mot de passe et actualisez un jeton d'authentification.
 * Récupérer les travaux et afficher les détails du travail.
 +
-Voir link:seapiref_jobs.html#retrieve-jobs["Récupérer les travaux"] et .
+Voir link:seapiref_jobs.html#retrieve-jobs["Récupérer les travaux"] et link:seapiref_jobs.html#retrieve-a-job-by-job-id["Récupérer un ID travail par travail"].
 
 * Extraire les régions.
 +
-Voir link:seapiref_regions.html#retrieve-regions["Extraire les régions"] et .
+Voir link:seapiref_regions.html#retrieve-regions["Extraire les régions"] et link:seapiref_regions.html#retrieve-a-region-by-name["Récupérer une région par son nom"].
 
 * Récupérer les niveaux de service
 +
-Voir link:seapiref_service_levels.html#retrieve-service-levels["Récupérer les niveaux de service"] et .
+Voir link:seapiref_service_levels.html#retrieve-service-levels["Récupérer les niveaux de service"] et link:seapiref_service_levels.html#retrieve-service-levels-by-name["Récupérer les niveaux de service par nom"].
 
 * Travailler avec les sous-locataires.
 +
@@ -53,11 +53,11 @@ Voir :
 
 * Récupérer les utilisateurs.
 +
-link:seapiref_users.html#retrieve-all-users["Récupérer tous les utilisateurs"], , et .
+link:seapiref_users.html#retrieve-all-users["Récupérer tous les utilisateurs"], link:seapiref_users.html#retrieve-a-user-by-id["Récupérer un utilisateur par ID"], et link:seapiref_users.html#retrieve-a-user-by-user-name["Récupérer un utilisateur par nom d'utilisateur"].
 
 * Récupérer les zones.
 +
-Voir link:seapiref_zones.html#retrieve-all-zones["Récupérer toutes les zones"] et 
+Voir link:seapiref_zones.html#retrieve-all-zones["Récupérer toutes les zones"] et link:seapiref_zones.html#retrieve-a-zone-by-name["Récupérer une zone par nom"]
 
 
 
