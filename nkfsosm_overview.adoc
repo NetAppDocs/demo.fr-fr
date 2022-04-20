@@ -6,6 +6,7 @@ summary: 'Présentation de l"abonnement NetApp Flex'
 ---
 = Modèle opérationnel, rôles et responsabilités
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

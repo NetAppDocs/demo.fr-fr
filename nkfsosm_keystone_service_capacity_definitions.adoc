@@ -6,6 +6,7 @@ summary: Définitions de capacité des services Keystone
 ---
 = Définitions de la capacité du service Flex Subscription
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

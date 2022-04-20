@@ -6,6 +6,7 @@ summary: Présentation du portail Web du moteur de service NetApp
 ---
 = Interface Web du moteur de service NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

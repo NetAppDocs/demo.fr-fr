@@ -6,6 +6,7 @@ summary: 'Présentation de l"abonnement flexible NetApp Keystone'
 ---
 = Colocation et colocation dans Flex Subscription
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

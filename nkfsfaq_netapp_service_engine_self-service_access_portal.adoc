@@ -6,6 +6,7 @@ summary: 'Portail d"accès en libre-service/moteur de service NetApp'
 ---
 = Portail d'accès en libre-service/moteur de service NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

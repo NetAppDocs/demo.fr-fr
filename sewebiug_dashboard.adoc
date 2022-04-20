@@ -6,6 +6,7 @@ summary: Vue tableau de bord
 ---
 = Afficher le tableau de bord des abonnements Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

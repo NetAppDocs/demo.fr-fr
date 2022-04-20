@@ -6,6 +6,7 @@ summary: Niveaux de service Keystone
 ---
 = Niveaux de services
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

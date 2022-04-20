@@ -6,6 +6,7 @@ summary: Modèles opérationnels
 ---
 = Modèles opérationnels et responsabilités
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

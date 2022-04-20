@@ -6,6 +6,7 @@ summary: 'Facturation de l"abonnement Keystone Flex'
 ---
 = Facturation de l'abonnement Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

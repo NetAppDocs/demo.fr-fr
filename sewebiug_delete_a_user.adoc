@@ -6,6 +6,7 @@ summary: Suppression de Keystone par un utilisateur
 ---
 = Supprimer un utilisateur
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

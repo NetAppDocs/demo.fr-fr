@@ -6,6 +6,7 @@ summary: Partenaire moteur de service NetApp, fonctions du fournisseur de servic
 ---
 = Rôles et opérations des fournisseurs de services et des clients
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

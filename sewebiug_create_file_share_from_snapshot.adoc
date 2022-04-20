@@ -6,6 +6,7 @@ summary: 'Créer un partage de fichiers à partir d"un instantané'
 ---
 = Créer un partage de fichiers à partir d'un instantané
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

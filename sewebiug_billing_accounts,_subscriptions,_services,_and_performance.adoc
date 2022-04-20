@@ -6,6 +6,7 @@ summary: Comptes de facturation Keystone, abonnements, services et performances
 ---
 = Comptes de facturation, abonnements, services et performances
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

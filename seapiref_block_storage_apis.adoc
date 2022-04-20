@@ -6,6 +6,7 @@ summary: API de stockage bloc Keystone
 ---
 = Les API de stockage bloc
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

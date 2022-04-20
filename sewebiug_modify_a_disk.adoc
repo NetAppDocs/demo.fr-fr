@@ -6,6 +6,7 @@ summary: Keystone permet de modifier un disque
 ---
 = Modifier un disque
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

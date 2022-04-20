@@ -6,6 +6,7 @@ summary: Modifier le serveur de fichiers
 ---
 = Modifier le serveur de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Régions Keystone
 ---
 = Régions
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

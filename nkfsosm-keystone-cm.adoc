@@ -6,6 +6,7 @@ summary: Intégration de Keystone et Cloud Manager
 ---
 = Quels sont les avantages de l'abonnement Flex pour votre utilisation de Cloud Volumes ONTAP
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

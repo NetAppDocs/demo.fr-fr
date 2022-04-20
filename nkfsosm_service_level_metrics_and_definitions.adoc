@@ -6,6 +6,7 @@ summary: Définitions et metrics de niveau de service Keystone
 ---
 = Définitions et metrics des niveaux de service
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

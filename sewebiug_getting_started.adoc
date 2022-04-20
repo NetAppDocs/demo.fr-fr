@@ -6,6 +6,7 @@ summary: Mise en route de Keystone
 ---
 = Pour commencer
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

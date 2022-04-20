@@ -6,6 +6,7 @@ summary: Présentation de la gestion des services cloud par Keystone
 ---
 = Présentation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

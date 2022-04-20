@@ -6,6 +6,7 @@ summary: Locataires Keystone
 ---
 = Locataires
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

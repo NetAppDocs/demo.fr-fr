@@ -6,6 +6,7 @@ summary: Keystone affiche le groupe de stockage objet et les utilisateurs
 ---
 = Afficher les utilisateurs et les groupes de stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

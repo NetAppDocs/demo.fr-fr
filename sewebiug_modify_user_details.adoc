@@ -6,6 +6,7 @@ summary: 'Keystone modifie les détails de l"utilisateur'
 ---
 = Modifier les détails de l'utilisateur
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

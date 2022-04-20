@@ -6,6 +6,7 @@ summary: Créez et supprimez des sous-réseaux
 ---
 = Définissez des configurations réseau pour les locataires et sous-locataires
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

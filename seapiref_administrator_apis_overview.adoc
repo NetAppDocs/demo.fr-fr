@@ -6,6 +6,7 @@ summary: 'Présentation des API de l"administrateur Keystone'
 ---
 = Présentation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

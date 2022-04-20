@@ -6,6 +6,7 @@ summary: API des travaux Keystone
 ---
 = Emplois
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

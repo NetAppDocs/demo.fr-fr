@@ -6,6 +6,7 @@ summary: 'Les API d"administration Keystone (grand public'
 ---
 = (Grand public) les API d'administration
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

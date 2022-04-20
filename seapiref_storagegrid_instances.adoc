@@ -6,6 +6,7 @@ summary: Instances StorageGRID Keystone
 ---
 = Instances StorageGRID
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

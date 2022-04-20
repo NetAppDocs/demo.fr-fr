@@ -6,6 +6,7 @@ summary: 'Keystone : suivre une demande de service'
 ---
 = Suivre une demande de service
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

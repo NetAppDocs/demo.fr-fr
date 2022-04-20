@@ -6,6 +6,7 @@ summary: Keystone où trouver des informations supplémentaires
 ---
 = Sources d'informations complémentaires
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

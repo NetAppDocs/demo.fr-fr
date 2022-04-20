@@ -6,6 +6,7 @@ summary: 'Performances de l"abonnement Keystone Flex'
 ---
 = Support US Citizen (USCS)
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

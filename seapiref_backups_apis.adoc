@@ -6,6 +6,7 @@ summary: API de sauvegarde Keystone
 ---
 = API de sauvegarde
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

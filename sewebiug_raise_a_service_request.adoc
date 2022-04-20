@@ -6,6 +6,7 @@ summary: Keystone demande de service
 ---
 = Demander un service
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

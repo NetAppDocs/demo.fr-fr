@@ -6,6 +6,7 @@ summary: 'Keystone supprime une clé S3 d"un utilisateur'
 ---
 = Supprimez une clé S3 d'un utilisateur
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

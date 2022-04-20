@@ -6,6 +6,7 @@ summary: 'Performances de l"abonnement Keystone Flex'
 ---
 = Niveaux de services de performances
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

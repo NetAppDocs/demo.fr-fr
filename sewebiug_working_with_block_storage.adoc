@@ -6,6 +6,7 @@ summary: Keystone avec stockage en mode bloc
 ---
 = Utilisation du stockage en mode bloc
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

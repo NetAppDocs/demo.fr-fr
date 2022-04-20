@@ -6,6 +6,7 @@ summary: Serveur de fichiers supprimé Keystone
 ---
 = Supprimer le serveur de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

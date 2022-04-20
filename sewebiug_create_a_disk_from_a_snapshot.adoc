@@ -6,6 +6,7 @@ summary: 'Créer un disque à partir d"un snapshot'
 ---
 = Créer un disque à partir d'un snapshot
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

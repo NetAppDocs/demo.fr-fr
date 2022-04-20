@@ -6,6 +6,7 @@ summary: 'Keystone permet d"ajouter un service cloud'
 ---
 = Ajouter un service cloud
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

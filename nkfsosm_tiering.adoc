@@ -6,6 +6,7 @@ summary: Tiering Keystone
 ---
 = Tiering
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

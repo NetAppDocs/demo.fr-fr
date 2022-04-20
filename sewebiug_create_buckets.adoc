@@ -6,6 +6,7 @@ summary: Création de compartiments Keystone
 ---
 = Créer des compartiments
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

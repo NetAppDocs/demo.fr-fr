@@ -6,6 +6,7 @@ summary: Keystone modifie un utilisateur de stockage objet
 ---
 = Modifier un utilisateur de stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: 'Présentation de l"architecture de réalisation des services'
 ---
 = Infrastructure d'abonnement Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Partages de vues Keystone
 ---
 = Afficher les partages de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

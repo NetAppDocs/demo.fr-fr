@@ -6,6 +6,7 @@ summary: Opérations et support
 ---
 = Opérations d'abonnement et support Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

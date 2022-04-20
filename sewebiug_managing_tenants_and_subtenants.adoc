@@ -6,6 +6,7 @@ summary: Gestion des sous-locataires par Keystone
 ---
 = Gestion des locataires et sous-locataires
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

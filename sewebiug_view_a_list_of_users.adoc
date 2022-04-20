@@ -6,6 +6,7 @@ summary: 'Keystone : afficher une liste d"utilisateurs'
 ---
 = Afficher la liste des utilisateurs
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

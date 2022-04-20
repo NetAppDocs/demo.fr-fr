@@ -6,6 +6,7 @@ summary: Gestion des volumes Azure par Keystone
 ---
 = Gestion des volumes Azure
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

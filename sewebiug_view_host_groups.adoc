@@ -6,6 +6,7 @@ summary: 'Vue des groupes d"hôtes Keystone'
 ---
 = Travailler avec des groupes hôtes
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

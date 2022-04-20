@@ -6,6 +6,7 @@ summary: Compartiments de vue Keystone
 ---
 = Compartiments de vue
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

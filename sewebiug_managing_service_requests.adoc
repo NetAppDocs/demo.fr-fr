@@ -6,6 +6,7 @@ summary: Gestion des demandes de service avec Keystone
 ---
 = Gestion des demandes de service
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

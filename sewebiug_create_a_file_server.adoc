@@ -6,6 +6,7 @@ summary: Keystone crée un serveur de fichiers
 ---
 = Créez un serveur de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

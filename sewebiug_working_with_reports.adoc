@@ -6,6 +6,7 @@ summary: Keystone utilisation des rapports
 ---
 = Afficher les rapports
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Keystone supprime un partage de fichiers
 ---
 = Supprimer un partage de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

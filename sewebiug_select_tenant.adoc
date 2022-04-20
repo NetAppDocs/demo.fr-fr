@@ -6,6 +6,7 @@ summary: Sélection du locataire Keystone
 ---
 = Sélectionnez le locataire
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

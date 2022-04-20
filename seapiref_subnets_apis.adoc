@@ -6,6 +6,7 @@ summary: API réseau Keystone
 ---
 = Définissez des configurations réseau avec des API de sous-réseau
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

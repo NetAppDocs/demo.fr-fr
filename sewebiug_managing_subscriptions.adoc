@@ -6,6 +6,7 @@ summary: Gestion des abonnements Keystone
 ---
 = Gestion des abonnements
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

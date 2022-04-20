@@ -6,6 +6,7 @@ summary: 'Keystone crée un snapshot ad hoc d"un disque'
 ---
 = Créer un snapshot ad hoc d'un disque
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

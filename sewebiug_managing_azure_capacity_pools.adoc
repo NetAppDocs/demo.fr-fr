@@ -6,6 +6,7 @@ summary: Gestion des pools de capacité Azure par Keystone
 ---
 = Gestion des pools de capacité Azure
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

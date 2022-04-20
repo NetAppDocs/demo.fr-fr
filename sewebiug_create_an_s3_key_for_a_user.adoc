@@ -6,6 +6,7 @@ summary: Keystone crée une clé S3 pour un utilisateur
 ---
 = Créez une clé S3 pour un utilisateur
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

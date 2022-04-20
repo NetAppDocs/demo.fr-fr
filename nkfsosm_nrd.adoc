@@ -6,6 +6,7 @@ summary: Abonnement Keystone Flex et Equinix
 ---
 = Offre de disque non retournable
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

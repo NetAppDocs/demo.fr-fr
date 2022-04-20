@@ -6,6 +6,7 @@ summary: 'Keystone crée un snapshot ad hoc d"un partage de fichiers'
 ---
 = Créer un instantané ad hoc d'un partage de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

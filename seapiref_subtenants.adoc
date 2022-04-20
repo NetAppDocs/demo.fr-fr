@@ -6,6 +6,7 @@ summary: Sous-locataires Keystone
 ---
 = Sous-locataires
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

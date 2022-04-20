@@ -6,6 +6,7 @@ summary: Keystone permet de supprimer un service cloud
 ---
 = Supprimez un service cloud
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: API de reporting Keystone
 ---
 = API de reporting
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

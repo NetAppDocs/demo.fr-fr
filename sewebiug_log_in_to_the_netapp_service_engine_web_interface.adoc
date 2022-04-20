@@ -6,6 +6,7 @@ summary: 'Connectez-vous à l"interface Web du moteur de services NetApp'
 ---
 = Connectez-vous à l'interface Web du moteur de services NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

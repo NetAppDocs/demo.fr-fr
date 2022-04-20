@@ -6,6 +6,7 @@ summary: Keystone fonctionne avec une présentation du stockage en mode bloc
 ---
 = Présentation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

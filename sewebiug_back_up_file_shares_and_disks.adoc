@@ -6,6 +6,7 @@ summary: Créer, modifier et supprimer des sauvegardes ou des restaurations à p
 ---
 = Sauvegarder les partages de fichiers et les disques
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

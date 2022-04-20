@@ -6,6 +6,7 @@ summary: Présentation des termes et description du service Keystone
 ---
 = Les termes et descriptions du service de souscription Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

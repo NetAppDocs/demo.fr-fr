@@ -6,6 +6,7 @@ summary: Protection des données
 ---
 = La protection des données
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

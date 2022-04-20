@@ -6,6 +6,7 @@ summary: Processus de demande de service Keystone
 ---
 = Processus de demande de service
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

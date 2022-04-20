@@ -6,6 +6,7 @@ summary: API REST des moteurs de service NetApp
 ---
 = API REST NetApp Service Engine
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

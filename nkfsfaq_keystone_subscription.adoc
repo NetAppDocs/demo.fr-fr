@@ -6,6 +6,7 @@ summary: Abonnement NetApp Keystone
 ---
 = FAQ relative à l'abonnement NetApp Keystone Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

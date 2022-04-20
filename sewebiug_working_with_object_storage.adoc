@@ -6,6 +6,7 @@ summary: Keystone avec le stockage objet
 ---
 = Utilisation du stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

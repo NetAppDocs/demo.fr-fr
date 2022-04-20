@@ -6,6 +6,7 @@ summary: Keystone crée un groupe de stockage objet
 ---
 = Créer un groupe de stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

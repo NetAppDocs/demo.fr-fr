@@ -6,6 +6,7 @@ summary: Problèmes connus dans le moteur de service NetApp
 ---
 = Problèmes connus dans le moteur de service NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

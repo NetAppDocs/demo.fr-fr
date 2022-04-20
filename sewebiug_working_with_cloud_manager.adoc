@@ -6,6 +6,7 @@ summary: Keystone avec cloud Manager
 ---
 = Collaborer avec Cloud Manager
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Présentation de la gestion des demandes de service par Keystone
 ---
 = Présentation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

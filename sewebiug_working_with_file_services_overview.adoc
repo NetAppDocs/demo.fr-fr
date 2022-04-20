@@ -6,6 +6,7 @@ summary: Présentation de Keystone utilisation des services de fichiers
 ---
 = Présentation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

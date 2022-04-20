@@ -6,6 +6,7 @@ summary: Keystone crée un nouveau disque
 ---
 = Créer un disque
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

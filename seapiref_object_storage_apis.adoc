@@ -6,6 +6,7 @@ summary: API de stockage objet Keystone
 ---
 = API de stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

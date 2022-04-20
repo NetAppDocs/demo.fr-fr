@@ -6,6 +6,7 @@ summary: Afficher et télécharger les détails de facturation
 ---
 = Afficher la facturation
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Gestion des abonnements Cloud Volume sur Google Cloud Platform
 ---
 = Gestion de Cloud Volumes Service pour GCP
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

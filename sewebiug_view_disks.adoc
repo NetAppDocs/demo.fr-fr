@@ -6,6 +6,7 @@ summary: Disques avec vue Keystone
 ---
 = Afficher les disques
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: API grand public Keystone
 ---
 = API grand public
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

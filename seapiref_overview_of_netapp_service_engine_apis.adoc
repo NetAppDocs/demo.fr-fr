@@ -6,6 +6,7 @@ summary: Présentation des API des moteurs de service NetApp
 ---
 = Présentation des API des moteurs de service NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

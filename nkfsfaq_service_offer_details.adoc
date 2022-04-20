@@ -6,6 +6,7 @@ summary: 'Détails de l"offre de service'
 ---
 = Détails de l'offre de service de souscription Flex
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

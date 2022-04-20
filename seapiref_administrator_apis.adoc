@@ -6,6 +6,7 @@ summary: 'API d"administrateur Keystone'
 ---
 = API d'administration
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Keystone initialise le stockage objet
 ---
 = Initialiser le stockage d'objets
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

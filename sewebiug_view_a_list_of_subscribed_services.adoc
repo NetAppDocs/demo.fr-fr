@@ -6,6 +6,7 @@ summary: Keystone consultez la liste des services cloud
 ---
 = Afficher la liste des services clouds
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

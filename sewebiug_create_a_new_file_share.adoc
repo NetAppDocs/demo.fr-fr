@@ -6,6 +6,7 @@ summary: Keystone crée un nouveau partage de fichiers
 ---
 = Créez un partage de fichiers
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

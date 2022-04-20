@@ -6,6 +6,7 @@ summary: Gestion des comptes Azure NetApp
 ---
 = Gestion des comptes Azure NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

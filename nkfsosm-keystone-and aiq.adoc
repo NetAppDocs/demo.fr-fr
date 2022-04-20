@@ -6,6 +6,7 @@ summary: Ce que les clients peuvent voir dans Active IQ pour la clé de voûte
 ---
 = Qu'est-ce que les clients de l'abonnement Flex peuvent afficher dans Active IQ ?
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

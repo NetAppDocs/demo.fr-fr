@@ -6,6 +6,7 @@ summary: Présentation de NetApp Keystone
 ---
 = FAQ NetApp Keystone
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary: Création et gestion des alertes
 ---
 = Création et gestion des alertes
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

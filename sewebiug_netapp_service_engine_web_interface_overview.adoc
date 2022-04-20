@@ -6,6 +6,7 @@ summary: 'Présentation de l"interface Web du moteur de service NetApp'
 ---
 = Présentation de l'interface Web du moteur de service NetApp
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

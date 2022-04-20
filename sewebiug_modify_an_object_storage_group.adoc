@@ -6,6 +6,7 @@ summary: Keystone permet de modifier un groupe de stockage objet
 ---
 = Modifier un groupe de stockage d'objets
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

@@ -6,6 +6,7 @@ summary:
 ---
 = Clusters ONTAP
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

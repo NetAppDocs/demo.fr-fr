@@ -6,6 +6,7 @@ summary: Keystone supprime un groupe de stockage objet
 ---
 = Supprime un groupe de stockage objet
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
