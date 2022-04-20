@@ -8,9 +8,9 @@ settings:
   prod:
     pdf_enabled: true
     avatars_enabled: true
-    langs: fr-fr,us-en
+    langs: fr-fr,us-en,zh-tw
     harmony_enabled: false
-  langs: fr-fr,us-en
+  langs: fr-fr,us-en,zh-tw
 sidebar:
   entries:
   - title: Abonnement NetApp Keystone Flex
