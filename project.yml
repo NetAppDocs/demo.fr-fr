@@ -1,6 +1,6 @@
 ---
 settings:
-  name: Keystone
+  name: Keystone Test
   platform: ''
   noindex: true
   internal:
