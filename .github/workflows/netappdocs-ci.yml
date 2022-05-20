@@ -8,7 +8,7 @@ jobs:
     runs-on: ${{ endsWith(github.event.repository.name, '-internal') && 'netappdocs-runner'  || 'ubuntu-20.04' }}
     env:
       DEPLOY_VERSION: v2
-      FRAMEWORK_BRANCH: add_copyright_page
+      FRAMEWORK_BRANCH: main
       DEPLOY_KEY_PREVIEW: ${{ secrets.DEPLOY_KEY_PREVIEW }}
       DEPLOY_HOST_PREVIEW: ${{ secrets.DEPLOY_HOST_PREVIEW }}
       ES_API: ${{ endsWith(github.event.repository.name, '-internal') &&  secrets.ES_API_INTERNAL || secrets.ES_API }}
