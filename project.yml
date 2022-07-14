@@ -7,7 +7,7 @@ settings:
     pdf_enabled: true
   prod:
     pdf_enabled: true
-    lipi_enabled: true
+    lipi_enabled: false
     avatars_enabled: true
     langs: fr-fr,us-en,zh-tw
     harmony_enabled: false
