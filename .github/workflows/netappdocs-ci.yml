@@ -41,8 +41,11 @@ jobs:
         if: ${{ env.LIPI_ENABLED == 'true' }}
         uses: ./dependencies/jekyll/.ci/actions/lipi-adoc
 
-      - name: "Generate HTML/PDF"
+      - name: "Generate HTML"
         uses: ./dependencies/jekyll/.ci/actions/jekyll
+
+      - name: "Generate PDF"
+        uses: ./dependencies/jekyll/.ci/actions/jekyll-pdf
         
       - name: "Lipi Doc site check"
         if: ${{ env.LIPI_ENABLED == 'true' }}
