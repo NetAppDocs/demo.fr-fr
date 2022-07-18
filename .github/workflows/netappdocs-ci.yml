@@ -4,10 +4,11 @@ on: [push, pull_request, workflow_dispatch]
 
 env:
   DEPLOY_VERSION: v3
-  FRAMEWORK_BRANCH: workflow-v3-lipi
+  FRAMEWORK_BRANCH: main
   INTERNAL_FLAG: ${{ endsWith(github.event.repository.name, '-internal') }}
   ES_API: ${{ endsWith(github.event.repository.name, '-internal') &&  secrets.ES_API_INTERNAL || secrets.ES_API }}
   ES_AUTH: ${{ endsWith(github.event.repository.name, '-internal') &&  secrets.ES_AUTH_INTERNAL || secrets.ES_AUTH }}
+  ES_AUTH_WEB: ${{ endsWith(github.event.repository.name, '-internal') &&  secrets.ES_AUTH_INTERNAL_WEB || secrets.ES_AUTH_WEB }}
   DEPLOY_KEY_PREVIEW: ${{ secrets.DEPLOY_KEY_PREVIEW }}
   DEPLOY_HOST_PREVIEW: ${{ secrets.DEPLOY_HOST_PREVIEW }}
   GH_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -63,9 +64,9 @@ jobs:
         if: ${{ always() && env.LIPI_ENABLED == 'true' }}
         uses: ./dependencies/jekyll/.ci/actions/lipi-report
 
-      - name: "General clean up"
+      - name: "Post processing actions"
         if: ${{ always() }}
-        uses: ./dependencies/jekyll/.ci/actions/clean-up
+        uses: ./dependencies/jekyll/.ci/actions/post-processing
 
       - name: Cleaning up workspace path
         if: always()
