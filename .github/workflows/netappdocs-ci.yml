@@ -27,7 +27,7 @@ jobs:
       - name: "Framework Checkout"
         uses: actions/checkout@v2
         with:
-          repository: 'NetAppDocs/jekyll'
+          repository: 'NetAppDocOps/jekyll'
           token: ${{ env.GH_TOKEN }}
           path: dependencies/jekyll
           ref: ${{ env.FRAMEWORK_BRANCH }}
